@@ -65,3 +65,5 @@ insert into Status Values(1,'Draft')
 insert into Status Values(2,'Published')
 
 insert into Status Values(3,'Reject')
+
+insert into tbl_user Values('admin@admin.com','ADMIN', 'A')
